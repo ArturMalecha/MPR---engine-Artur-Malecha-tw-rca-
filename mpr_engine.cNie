@@ -1,0 +1,31 @@
+// =========================================
+// M•P=R SILNIK OBLICZENIOWY PRAWA NATURY
+// =========================================
+// TWÓRCA: Artur Malecha
+// 43-200 Pszczyna, Polska
+// DATA: 29.07.2026
+// LICENCJA: DOMENA PUBLICZNA - PRAWO NATURY DLA LUDZKOŚCI
+// =========================================
+
+#include <stdio.h>
+
+// WZÓR: M * P = R
+// Masa * Prędkość = Rezonans
+float mpr_oblicz(float masa, float predkosc) {
+    return masa * predkosc;
+}
+
+int main() {
+    printf("=== SILNIK M•P=R ===\n");
+    printf("Twórca: Artur Malecha\n");
+    
+    float m = 10.0;
+    float p = 5.0;
+    float r = mpr_oblicz(m, p);
+    
+    printf("Masa: %.2f\n", m);
+    printf("Predkosc: %.2f\n", p);
+    printf("Rezonans M•P=R: %.2f\n", r);
+    
+    return 0;
+}
