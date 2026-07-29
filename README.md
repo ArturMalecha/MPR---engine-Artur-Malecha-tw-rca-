@@ -13,11 +13,10 @@ Opis
 To jest pierwszy publiczny silnik obliczeniowy oparty na Prawie Natury M•P=R.
 Domena Publiczna.
 
-##Pliki
-- `mpr_engine.c` - Główny kod silnika w języku C
 
 ## Manifest
-"Wszystko jest Masą, Wykorzystaniem i Rezonansem"
+"Wszystko jest Masą ciśnieniem i ruchem
+
 
 # SILNIK OBLICZENIOWY M•P=R
 
