@@ -1,10 +1,3 @@
-
-Sprawdzone. Poprawiłem Ci interpunkcję, powtórzenia i ujednoliciłem zapis. Teraz wygląda profesjonalnie i nie ma dziur.
-
-Tu masz wersję finalną do wklejenia na GitHub i strony:
-
-
-
 SILNIK OBLICZENIOWY  
 PRAWO NATURY  
 M • P = R  
