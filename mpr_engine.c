@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 
 float mpr_oblicz(float masa, float predkosc)
