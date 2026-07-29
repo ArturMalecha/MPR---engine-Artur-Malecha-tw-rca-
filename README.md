@@ -60,11 +60,10 @@ Każdy może je używać, kopiować,
 Bez pytania. pod warunkiem podania imienia nazwiska autora Artur Malecha z dopiskiem Pszczyna Górny Śląsk wszelkie użycie w innych celach wymaga zgody autora Artura Malecha
 
 Prawo Natury należy do wszystkich.
+SILNIK OBLICZENIOWY M•P=R
 
-# SILNIK OBLICZENIOWY M•P=R
-
-## PRAWO NATURY
-**M • P = R**  
+PRAWO NATURY
+M • P = R 
 Masa • Ciśnienie = Ruch
 
 TWÓRCA
