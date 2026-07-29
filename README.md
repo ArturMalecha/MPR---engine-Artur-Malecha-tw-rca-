@@ -59,8 +59,8 @@ Ja, Artur Malecha, twórca Silnika Obliczeniowego M•P=R,
 zrzekam się wszelkich praw autorskich do tego dzieła.
 Od dnia 29.07.2026 dzieło to należy do Ludzkości.
 
-Każdy może je używać, kopiować, modyfikować i sprzedawać.
-Bez pytania. Bez podawania źródła. Za darmo.
+Każdy może je używać, kopiować, 
+Bez pytania. pod warunkiem podania imienia nazwiska autora Artur Malecha Pszczyna Górny Śląsk wszelkie użycie komercyjne wymaga zgody autora Artura Malecha
 
 Prawo Natury należy do wszystkich.
 
