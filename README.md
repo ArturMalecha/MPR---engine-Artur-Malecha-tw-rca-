@@ -77,7 +77,7 @@ Pierwszy na świecie silnik obliczeniowy oparty na Prawie Natury M•P=R.
 Udostępniony ludzkości w Domenie Publicznej
 
 MANIFEST
-"Wszystko we Wszechświecie jest Masą ciśnieniem ruchem
+"Wszystko we Wszechświecie jest Masą ciśnieniem ruchem”
 
 Domena Publiczna – CC0 1.0
 
@@ -92,7 +92,7 @@ SILNIK OBLICZENIOWY M•P=R
 
 PRAWO NATURY
 M • P = R  
-Masa • Ciśnienie  = Ruch
+Masa • Ciśnienie = Ruch
 
 TWÓRCA
 Artur Malecha  
